@@ -1,4 +1,4 @@
-# lua-language-server
+i# lua-language-server
 
 ![build](https://img.shields.io/github/actions/workflow/status/LuaLS/lua-language-server/.github%2Fworkflows%2Fbuild.yml)
 ![Version (including pre-releases)](https://img.shields.io/visual-studio-marketplace/v/sumneko.lua)
@@ -6,7 +6,7 @@
 ![Downloads](https://img.shields.io/visual-studio-marketplace/d/sumneko.lua)
 
 
-***Lua developmentdhshdskhsk just got a whole lot better*** 🧠
+***Lua developmentdhshdskhsk fdfdfdf just got a whole lot better*** 🧠
 
 The Lua language server provides various language features for Lua to make development easier and faster. With nearly a million installs in Visual Studio Code, it is the most popular extension for Lua language support.
 
