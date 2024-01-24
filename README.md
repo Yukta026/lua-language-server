@@ -8,7 +8,8 @@ i# lua-language-server
 
 ***Lua developmentdhshdskhsk just dfefjdofdj got a whole lot better*** 🧠
 
-The Lua language server provides various language features for Lua to make development easier and faster. With nearly a million installs in Visual Studio Code, it is the most popular extension for Lua language support.
+The Lua dskdjskdjhsdjslanguage server provides various language features for Lua to make development easier and faster. With nearly a million installs in Visual Studio Code, it is the most popular 
+extension for Lua language support.
 
 [See our website for more info](https://luals.github.io).
 
